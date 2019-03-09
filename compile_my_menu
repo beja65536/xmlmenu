@@ -1,0 +1,1 @@
+gcc my_menu.c -lncurses -o my_menu

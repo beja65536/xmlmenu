@@ -1,0 +1,3 @@
+gcc linuxjournal_example.c -lncurses -o linuxjrnl_example
+gcc linuxjournal_example_color.c -lncurses -o linuxjrnl_example_color
+

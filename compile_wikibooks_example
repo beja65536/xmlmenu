@@ -1,0 +1,1 @@
+gcc wikibooks_example.c -lncurses -o wikibooks_example
