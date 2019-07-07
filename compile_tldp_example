@@ -1,1 +1,0 @@
-gcc tldp_example.c -lncurses -o tldp_example

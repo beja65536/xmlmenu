@@ -1,0 +1,1 @@
+g++ -g -I tinyxml2 xmlmenu.cpp tinyxml2/tinyxml2.cpp tinyxml2helper.cpp menubackend.cpp xmlmenubackend.cpp -lncurses -o xmlmenu -Wall
